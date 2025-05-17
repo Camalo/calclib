@@ -1,7 +1,7 @@
 #### Подключение:
 
 ``` bash
-
+composer require kamalo/calclib
 ```
 
 #### Требования:
