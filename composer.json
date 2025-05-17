@@ -1,0 +1,18 @@
+{
+    "name": "kamalo/calclib",
+    "description": "A test calculator library",
+    "type": "library",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "kamalo\\calclib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Алсу Камалова",
+            "email": "camalovalsu@outlook.com"
+        }
+    ],
+    "require": {}
+}

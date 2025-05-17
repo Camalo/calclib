@@ -5,7 +5,7 @@ nginx
 fpm
 
 # composer
-composer.json
+
 composer.lock
 vendor
 fpm
