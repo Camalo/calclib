@@ -30,4 +30,8 @@ class Calculator
     public function elevate(int $term, int $degree){
         return $term ** $degree;
     }
+
+    public function isDivisible(int $term, int $divisor){
+        return $term % $divisor == 0;
+    }
 }
