@@ -26,4 +26,8 @@ class Calculator
     {
         return ($divisor !== 0) ? $dividend / $divisor : false;
     }
+
+    public function elevate(int $term, int $degree){
+        return $term ** $degree;
+    }
 }
