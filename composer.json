@@ -2,7 +2,7 @@
     "name": "kamalo/calclib",
     "description": "A test calculator library",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "autoload": {
         "psr-4": {
             "kamalo\\calclib\\": "src/"
