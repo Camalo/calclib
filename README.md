@@ -6,7 +6,7 @@ composer require kamalo/calclib
 
 #### Требования:
 
-**Php 5.0**
+**Php 7.2**
 
 #### Пример использования:
 
